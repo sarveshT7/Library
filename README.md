@@ -1,5 +1,8 @@
 # Library
 Library management react js project
+ Credentials for admin : 
+username : admin
+password : 12345
 
 This library project is built using json server and react js, to run this project follow the below steps
 
